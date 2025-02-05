@@ -4,7 +4,7 @@ https://dcbadge.vercel.app/api/server/ByRwuEEgH4)](https://discord.com/invite/By
 
 This repo is a companion to this session at Microsoft AI Tour, a worldwide tour of events.
 
-> Learn more about Microsoft AI Tour on the official website.
+> Learn more about [Microsoft AI Tour](https://aitour.microsoft.com/) on the official website.
 
 ## Session Desciption
 
